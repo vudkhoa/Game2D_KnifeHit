@@ -217,8 +217,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: -30
-  hitSound: {fileID: 0}
-  fail: {fileID: 0}
+  hitSound: {fileID: 8300000, guid: 444079c66b83d6d4abad56c1be9154e4, type: 3}
+  fail: {fileID: 8300000, guid: f62406958704f8e43b3133135d68e8c5, type: 3}
   scriptEnabled: 1
   vt: {x: -1, y: 1}
 --- !u!1 &576293732
@@ -442,8 +442,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: -50
-  hitSound: {fileID: 0}
-  fail: {fileID: 0}
+  hitSound: {fileID: 8300000, guid: 444079c66b83d6d4abad56c1be9154e4, type: 3}
+  fail: {fileID: 8300000, guid: f62406958704f8e43b3133135d68e8c5, type: 3}
   scriptEnabled: 1
   vt: {x: 0, y: 1}
 --- !u!1 &875973993
@@ -591,8 +591,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: -20
-  hitSound: {fileID: 0}
-  fail: {fileID: 0}
+  hitSound: {fileID: 8300000, guid: 444079c66b83d6d4abad56c1be9154e4, type: 3}
+  fail: {fileID: 8300000, guid: f62406958704f8e43b3133135d68e8c5, type: 3}
   scriptEnabled: 1
   vt: {x: 0, y: 1}
 --- !u!1 &1524301821
@@ -1334,8 +1334,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: -30
-  hitSound: {fileID: 0}
-  fail: {fileID: 0}
+  hitSound: {fileID: 8300000, guid: 444079c66b83d6d4abad56c1be9154e4, type: 3}
+  fail: {fileID: 8300000, guid: f62406958704f8e43b3133135d68e8c5, type: 3}
   scriptEnabled: 1
   vt: {x: 0, y: 1}
 --- !u!1001 &2090666608

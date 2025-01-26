@@ -522,7 +522,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: -30
-  hitSound: {fileID: 0}
+  hitSound: {fileID: 8300000, guid: 444079c66b83d6d4abad56c1be9154e4, type: 3}
+  fail: {fileID: 8300000, guid: f62406958704f8e43b3133135d68e8c5, type: 3}
   scriptEnabled: 1
   vt: {x: 0, y: 1}
 --- !u!1 &454718504
@@ -1301,7 +1302,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: -30
-  hitSound: {fileID: 0}
+  hitSound: {fileID: 8300000, guid: 444079c66b83d6d4abad56c1be9154e4, type: 3}
+  fail: {fileID: 8300000, guid: f62406958704f8e43b3133135d68e8c5, type: 3}
   scriptEnabled: 1
   vt: {x: -1, y: 1}
 --- !u!1660057539 &9223372036854775807

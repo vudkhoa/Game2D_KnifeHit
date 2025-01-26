@@ -8,9 +8,11 @@ public class GameController : MonoBehaviour
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start() {
-        // score = 0;
-        // highScore = 0;
-        // SaveHighScore();
+        int tmp = score;
+        score = 250;
+        highScore = 250;
+        SaveHighScore();
+        score = tmp;
         LoadHighScore();
     }
 
@@ -48,6 +50,10 @@ public class GameController : MonoBehaviour
     }
 
     public void QuitGame() { 
-        Application.Quit();
+        #if UNITY_WEBGL
+            Application.OpenURL("about:blank");
+        #else
+            Application.Quit();
+        #endif
     }
 }

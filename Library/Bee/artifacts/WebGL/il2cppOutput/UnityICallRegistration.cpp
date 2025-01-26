@@ -490,10 +490,6 @@ void RegisterAllStrippedInternalCalls()
 		void Register_UnityEngine_Application_OpenURL_Injected();
 		Register_UnityEngine_Application_OpenURL_Injected();
 
-		//System.Void UnityEngine.Application::Quit(System.Int32)
-		void Register_UnityEngine_Application_Quit();
-		Register_UnityEngine_Application_Quit();
-
 		//UnityEngine.RuntimePlatform UnityEngine.Application::get_platform()
 		void Register_UnityEngine_Application_get_platform();
 		Register_UnityEngine_Application_get_platform();

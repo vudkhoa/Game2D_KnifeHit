@@ -1746,4 +1746,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/Level3.unity
   - Assets/Scenes/Level4.unity
   - Assets/Scenes/Level5.unity
-  playerPath: D:/unity/GameKnifeHit_2D/buildx5
+  playerPath: D:/unity/GameKnifeHit_2D/BuildWeb
